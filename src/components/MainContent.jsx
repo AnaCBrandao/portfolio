@@ -1,9 +1,10 @@
+import '../styles/components/maincontent.sass'
 
 function MainContent() {
   return (
-    <div>
+    <main id="main-content">
       <p>Maincontent</p>
-    </div>
+    </main>
   )
 }
 
