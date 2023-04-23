@@ -8,7 +8,7 @@ function AboutContainer() {
         Técnica em Informática pelo IFSP, sou apaixonada por inovação e tecnologia. Desenvolvo projetos utilizando React, JavaScript, CSS, Bootstrap e um pouco de Node.js, PHP e MySQL!
         </p>
         <p>
-        Participei de projetos de pesquisa envolvendo Arduino e Objetos de Aprendizagem para aprimorar o pensamento computacional. Sempre buscando novos conhecimentos.
+        Participei de projetos de pesquisa envolvendo Arduino e Objetos de Aprendizagem para aprimorar o pensamento computacional. Também já dei aulas de informática pra design e desenvolvimento web.
         </p>
     </section>
   )

@@ -14,6 +14,6 @@ function SideBar() {
       <a href="" className="btn">Download currículo</a>
     </aside>
   )
-} 
+}  
 
 export default SideBar

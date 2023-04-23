@@ -10,7 +10,7 @@ function InformationContainer() {
             <AiOutlineMail id="email-icon" />
             <div>
                 <h3>E-mail</h3>
-                <p>anacarolini633@gmail.com</p>
+                <p class="min-font">anacarolini633@gmail.com</p>
             </div>
         </div>
 

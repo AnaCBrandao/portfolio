@@ -1,0 +1,24 @@
+@use '../variables'
+@use '../mixins'
+
+.projects-container
+    margin-bottom: 1rem
+
+    .project-card
+        @include mixins.center 
+        gap: 1rem
+        padding: 1rem
+        border: 1px solid #333
+        width: 95%
+        margin-bottom: 1.5rem
+        border-radius: variables.$card-border-radius
+
+        h3
+            color: #47acca
+            margin-bottom: 1rem
+            font-size: 1.5rem
+
+    .btn
+           margin: auto
+    
+
