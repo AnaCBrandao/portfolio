@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <p>Personal portfolio project using Vite + React and Sass for styling. <p>
-  <img src="https://cdn.discordapp.com/attachments/767910421025521665/1102675424884043856/Captura_de_tela_2023-05-01_161549.png"/>
+  <img src="https://media.discordapp.net/attachments/767910421025521665/1102675424884043856/Captura_de_tela_2023-05-01_161549.png?ex=6626b804&is=66144304&hm=91e94ce72125dc456b5f80cd9d450e533f0efa59a5579ed2f234f34900bb3478&=&format=webp&quality=lossless&width=868&height=559"/>
 </div>
 
 ## Features
